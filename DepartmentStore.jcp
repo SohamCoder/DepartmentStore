@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>DepartmentStore</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>DepartmentStore</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>DailyTransactions.java</path>
+			</fileitem>
+			<fileitem>
+				<path>DepartmentStore.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Sale.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Transaction.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
